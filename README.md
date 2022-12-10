@@ -7,6 +7,6 @@ Download the .py file and place to your directory of choice on the host PC. It i
 It is recommended that this model be run in Spyder 5.1.5 [conda (Python 3.9.7)]. 
 
 # Purpose Disclaimer
-The contents of this GitHub repository, including but not limited to the command_line_of_sight_(CLOS).py, Engagement Scenario (CLOS).jpg, and engagement_file.xlsx files, were created for educational purposes only. The purpose of this model is to illustrate the guidance laws, physics concepts, and mathematical equations that go into making a PPN model. Any usage of the contents of this GitHub repository (as defined previously) outside of these educational purposes is strictly prohibited. This includes any derivative works.
+The contents of this GitHub repository, including but not limited to the command_line_of_sight_(CLOS).py, Engagement Scenario (CLOS).jpg, and engagement_file.xlsx files, were created for educational purposes only. The purpose of this model is to illustrate the guidance laws, physics concepts, and mathematical equations that go into making a CLOS model. Any usage of the contents of this GitHub repository (as defined previously) outside of these educational purposes is strictly prohibited. This includes any derivative works.
 
 # What is Command-Line-of-Sight (CLOS)?
